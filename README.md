@@ -8,6 +8,6 @@ This repository is created to have a better understanding on Airbnb listings in 
 - You can check the here for more information. 
   
 How to use the scripts:
-- download unzip, ziped files in data folder.
-- download language identification dictionary from https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin to data folder.
-- download word vectos from https://dl.fbaipublicfiles.com/fasttext/vectors-aligned/wiki.en.align.vec to data folder
+- Download unzip, ziped files in data folder.
+- Download language identification dictionary from https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin to data folder.
+- Download word vectos from https://dl.fbaipublicfiles.com/fasttext/vectors-aligned/wiki.en.align.vec to data folder

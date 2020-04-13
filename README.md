@@ -3,7 +3,9 @@
 This repository is created to have a better understanding on Airbnb listings in Stockholm. Regarding:
   - Identification of main factors in pricing
   - Change of availibility and prices over time
-  - Clues for naming new property
+  - Clues for naming the property
+
+You can read the tutorial to the repo from my article in Medium.com at https://medium.com/@guzererler/how-to-prepare-your-airbnb-listing-for-more-revenue-in-3-steps-7028fbe4ce49
   
 - You can check the here for more information. 
   
